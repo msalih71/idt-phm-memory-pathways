@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Cite this versioned reproducibility repository; no journal publication DOI is claimed."
+type: software
+title: "IDT-PHM memory pathways: reproducible evaluation materials"
+version: "2026.10.16"
+date-released: "2026-10-16"
+repository-code: "https://github.com/msalih71/idt-phm-memory-pathways"
+url: "https://github.com/msalih71/idt-phm-memory-pathways/releases/tag/v2026.10.16"
+authors:
+  - family-names: Salih
+    given-names: Mahgoub A.
+    orcid: "https://orcid.org/0000-0001-8652-9842"
+  - family-names: Shirgawi
+    given-names: Mohamed Y.
+keywords:
+  - predictive maintenance
+  - bearing monitoring
+  - memory ablation
+  - reproducibility

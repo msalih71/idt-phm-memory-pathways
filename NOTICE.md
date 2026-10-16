@@ -1,0 +1,3 @@
+# Attribution and reuse
+
+Public availability does not replace dataset or third-party licensing terms. Original bearing datasets remain attributed to their providers. The assets redistribute compact measured-feature caches and research outputs, not raw waveform archives. Dependency and template licenses remain their own. No blanket license is applied to third-party material. No additional general software license has been selected on behalf of the authors. Contact m.salih@qu.edu.sa for reuse questions. The computational archive preserves historical reports and legacy manuscript records; they are not claimed as new results or a current journal publication.
